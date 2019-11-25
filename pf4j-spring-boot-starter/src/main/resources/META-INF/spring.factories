@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.github.cobrijani.pf4jspringbootstarter.PF4JAutoConfiguration
