@@ -59,7 +59,7 @@
 
     <modules>
 		<module>pf4j-spring-boot-starter</module>
-		<module>demo</module>
+		<!-- <module>demo</module> -->
 	</modules>
 
     <dependencyManagement>
