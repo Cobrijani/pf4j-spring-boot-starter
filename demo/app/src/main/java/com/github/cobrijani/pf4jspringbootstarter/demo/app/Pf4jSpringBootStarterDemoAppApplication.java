@@ -1,4 +1,4 @@
-package com.github.cobrijani.pf4jspringbootstarterdemoapp;
+package com.github.cobrijani.pf4jspringbootstarter.demo.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
